@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'React', 'Eleventy', 'Vue', 'Node.js', 'WordPress'];
+  const skills = ['JavaScript', 'C', 'React', 'Golang', 'Node.js', 'AWS'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,21 +135,21 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
+              Hey! My name is Aiden and I'm currently studying Computer Engineering at UCLA. Ever
+              since I was a kid, I've beeen fascinated with computers and the many intricacies that
+              go into their making. Now, as a Computer Engineer, I seek to combine my love for
+              computers with my entrepreneurial mindset to contribute to the rapidly changing world
+              of technology.
             </p>
 
             <p>
               Fast-forward to today, and I've had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
+              <a href="https://www.cjkimlab.ucla.edu/">a research lab</a>,{' '}
+              <a href="https://visitnomad.com/">a start-up</a>, and{' '}
+              <a href="https://elfin.igpp.ucla.edu/">a student-led satellite mission</a>. My main
+              focus these days is building a smarter, faster automotive commerce platform at{' '}
+              <a href="https://fortellis.io/">Fortellis by CDK Global</a> for 3500+ registered users
+              across the globe.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
