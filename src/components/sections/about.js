@@ -148,8 +148,8 @@ const About = () => {
               <a href="https://visitnomad.com/">a start-up</a>, and{' '}
               <a href="https://elfin.igpp.ucla.edu/">a student-led satellite mission</a>. My main
               focus these days is building a smarter, faster automotive commerce platform at{' '}
-              <a href="https://fortellis.io/">Fortellis by CDK Global</a> for 3500+ registered users
-              across the globe.
+              <a href="https://fortellis.io/">Fortellis by CDK Global</a> to handle more than 150
+              million API transactions per year.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

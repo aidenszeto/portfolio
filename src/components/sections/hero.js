@@ -64,9 +64,9 @@ const Hero = () => {
   const four = (
     <p>
       I'm a California-based software engineer with experience in web development, embedded systems,
-      and product management. Currently, I'm a Software Engineer Intern at{' '}
-      <a href="https://www.cdkglobal.com/">CDK Global</a> focused on building innovative solutions
-      on the Fortellis Platform.
+      and product management with interests in space technology. Currently, I'm a Software Engineer
+      Intern at <a href="https://www.cdkglobal.com/">CDK Global</a> focused on building innovative
+      solutions on the Fortellis Platform.
     </p>
   );
   const five = (

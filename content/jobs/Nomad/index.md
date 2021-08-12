@@ -1,5 +1,5 @@
 ---
-date: '2020-05-01'
+date: '2020-10-02'
 title: 'Co-Founder & Chief Technology Officer'
 company: 'Nomad'
 location: 'Los Angeles, CA'

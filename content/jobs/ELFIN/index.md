@@ -1,5 +1,5 @@
 ---
-date: '2020-10-02'
+date: '2020-10-03'
 title: 'Software Developer'
 company: 'ELFIN'
 location: 'Los Angeles, CA'
