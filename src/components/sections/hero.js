@@ -63,10 +63,10 @@ const Hero = () => {
   const three = <h3 className="big-heading">I'm a Software Engineer.</h3>;
   const four = (
     <p>
-      I'm a California-based software engineer with experience in web development, embedded systems,
-      and product management with interests in space technology. Currently, I'm a Software Engineer
-      Intern at <a href="https://www.cdkglobal.com/">CDK Global</a> focused on building innovative
-      solutions on the Fortellis Platform.
+      I'm a California-based software and computer engineer with experience in web development,
+      embedded systems, product management, and entrepreneurship. Currently, I'm a Software Engineer
+      Intern at <a href="https://www.nasa.gov/centers/johnson/home/index.html">NASA</a> focused on
+      innovating command and data handling for the Artemis mission.
     </p>
   );
   const five = (

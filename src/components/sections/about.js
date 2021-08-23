@@ -136,20 +136,21 @@ const About = () => {
           <div>
             <p>
               Hey! My name is Aiden and I'm currently studying Computer Engineering at UCLA. Ever
-              since I was a kid, I've beeen fascinated with computers and the many intricacies that
-              go into their making. Now, as a Computer Engineer, I seek to combine my love for
-              computers with my entrepreneurial mindset to contribute to the rapidly changing world
-              of technology.
+              since I was a kid, I've been fascinated with computers and their many intricacies. Now
+              as a Computer Engineer, I seek to pursue my interests in computer architecture and
+              networking, space technology, and entrepreneurship to contribute to the rapidly
+              changing world of technology.
             </p>
 
             <p>
-              Fast-forward to today, and I've had the privilege of working at{' '}
-              <a href="https://www.cjkimlab.ucla.edu/">a research lab</a>,{' '}
-              <a href="https://visitnomad.com/">a start-up</a>, and{' '}
-              <a href="https://elfin.igpp.ucla.edu/">a student-led satellite mission</a>. My main
-              focus these days is building a smarter, faster automotive commerce platform at{' '}
-              <a href="https://fortellis.io/">Fortellis by CDK Global</a> to handle more than 150
-              million API transactions per year.
+              Fast-forward to today, and I've had the privilege of working at a{' '}
+              <a href="https://www.cjkimlab.ucla.edu/"> research lab</a>, a{' '}
+              <a href="https://visitnomad.com/">start-up</a>, a student-led{' '}
+              <a href="https://elfin.igpp.ucla.edu/">satellite mission</a>, and the world's leading{' '}
+              <a href="https://fortellis.io/">automotive software marketplace</a>. My main focus
+              these days is building smarter, faster command and data handling solutions at{' '}
+              <a href="https://www.nasa.gov/centers/johnson/home/index.html">NASA</a> to support
+              Artemis missions.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
