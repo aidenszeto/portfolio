@@ -1,6 +1,6 @@
 ---
 date: '2020-10-03'
-title: 'Software Developer'
+title: 'Flight Software Lead'
 company: 'ELFIN'
 location: 'Los Angeles, CA'
 range: 'October 2020 - Present'

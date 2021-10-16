@@ -66,7 +66,7 @@ const Hero = () => {
       I'm a California-based software and computer engineer with experience in web development,
       embedded systems, product management, and entrepreneurship. Currently, I'm a Software Engineer
       Intern at <a href="https://www.nasa.gov/centers/johnson/home/index.html">NASA</a> focused on
-      innovating command and data handling for the Artemis mission.
+      innovating command and data handling for the Gateway Moon outpost.
     </p>
   );
   const five = (

@@ -7,4 +7,5 @@ range: 'August 2021 - Present'
 url: 'https://www.nasa.gov/'
 ---
 
-- Part of the Johnson Space Center Command and Data Handling Branch in the Avionic Systems Division
+- Working on Gateway HALO Module command and data handling team to develop live-feed SNMP health & status monitoring for time-triggered ethernet network
+- Investigated ISS network monitoring tools and developed proof of concept SNMP dashboards on Splunk
