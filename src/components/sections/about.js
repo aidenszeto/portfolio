@@ -145,12 +145,12 @@ const About = () => {
             <p>
               Fast-forward to today, and I've had the privilege of working at a{' '}
               <a href="https://www.cjkimlab.ucla.edu/"> research lab</a>, a{' '}
-              <a href="https://visitnomad.com/">start-up</a>, a student-led{' '}
-              <a href="https://elfin.igpp.ucla.edu/">satellite mission</a>, and the world's leading{' '}
-              <a href="https://fortellis.io/">automotive software marketplace</a>. My main focus
-              these days is building smarter, faster command and data handling solutions at{' '}
-              <a href="https://www.nasa.gov/centers/johnson/home/index.html">NASA</a> to support
-              Artemis missions.
+              <a href="https://visitnomad.com/">start-up</a>, the world's leading{' '}
+              <a href="https://fortellis.io/">automotive software marketplace</a>, and the next
+              generation of{' '}
+              <a href="https://www.nasa.gov/specials/artemis/">missions to the moon</a>. My main
+              focus these days is leading the development of UCLA's student led{' '}
+              <a href="https://elfin.igpp.ucla.edu/">satellite mission</a>.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
