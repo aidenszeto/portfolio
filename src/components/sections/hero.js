@@ -65,9 +65,9 @@ const Hero = () => {
     <p>
       I'm a California-based computer engineering student with experience in web development,
       embedded systems, product management, and entrepreneurship. Most recently, I was a Software
-      Engineer Intern at NASA working on time-triggered ethernet for the
+      Engineer Intern at NASA working on time-triggered ethernet for the{' '}
       <a href="https://www.nasa.gov/press-release/nasa-northrop-grumman-finalize-moon-outpost-living-quarters-contract">
-        Gateway HALO module{' '}
+        Gateway HALO module.
       </a>
       .
     </p>

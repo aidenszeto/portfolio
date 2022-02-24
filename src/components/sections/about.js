@@ -145,9 +145,8 @@ const About = () => {
             <p>
               Fast-forward to today, and I've had the privilege of working at a{' '}
               <a href="https://www.cjkimlab.ucla.edu/"> research lab</a>, a{' '}
-              <a href="https://visitnomad.com/">start-up</a>, the world's leading{' '}
-              <a href="https://fortellis.io/">automotive software marketplace</a>, and the next
-              generation of{' '}
+              <a href="https://visitnomad.com/">start-up</a>, the world's leading automotive{' '}
+              <a href="https://fortellis.io/">software marketplace</a>, and the next generation of{' '}
               <a href="https://www.nasa.gov/specials/artemis/">missions to the moon</a>. My main
               focus these days is leading the development of UCLA's student led{' '}
               <a href="https://elfin.igpp.ucla.edu/">satellite mission</a>.
