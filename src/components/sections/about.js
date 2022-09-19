@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['React', 'C', 'Node.js', 'Python', 'Golang', 'AWS'];
+  const skills = ['Python', 'C', 'Node.js', 'React', 'Hack', 'AWS'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -135,21 +135,20 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hey! My name is Aiden and I'm currently studying Computer Engineering at UCLA. Ever
-              since I was a kid, I've been fascinated with computers and their many intricacies. Now
-              as a Computer Engineer, I seek to pursue my interests in computer architecture and
-              networking, space technology, and entrepreneurship to contribute to the rapidly
-              changing world of technology.
+              Hey! My name is Aiden and I'm currently studying Computer Science at UCLA. Ever since
+              I was a kid, I've been fascinated with computers and their many intricacies. Now as a
+              Software Engineer, I seek to pursue my interests in computer architecture and
+              networking, space technology, and entrepreneurship.
             </p>
 
             <p>
-              Fast-forward to today, and I've had the privilege of working at a{' '}
-              <a href="https://www.cjkimlab.ucla.edu/"> research lab</a>, a{' '}
-              <a href="https://visitnomad.com/">start-up</a>, the world's leading automotive{' '}
-              <a href="https://fortellis.io/">software marketplace</a>, and the next generation of{' '}
-              <a href="https://www.nasa.gov/specials/artemis/">missions to the moon</a>. My main
-              focus these days is leading the development of UCLA's student led{' '}
-              <a href="https://elfin.igpp.ucla.edu/">satellite mission</a>.
+              Fast-forward to today, and I've had the privilege of working on a student-led{' '}
+              <a href="https://elfin.igpp.ucla.edu/"> satellite mission</a>, a{' '}
+              <a href="https://visitnomad.com/">start-up</a>, the next generation of{' '}
+              <a href="https://www.nasa.gov/specials/artemis/">missions to the moon</a>, and the{' '}
+              <a href="https://about.facebook.com/">largest social media platform</a> in the world.
+              These days I am focused on building software services at{' '}
+              <a href="https://drf.nasa.gov/">NASA</a>.
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

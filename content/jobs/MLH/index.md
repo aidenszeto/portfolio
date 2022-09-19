@@ -1,7 +1,7 @@
 ---
 date: '2021-07-19'
 title: 'MLH Fellow'
-company: 'Major League Hacking'
+company: 'MLH'
 location: 'Remote'
 range: 'July - August 2021'
 url: 'https://mlh.io/'

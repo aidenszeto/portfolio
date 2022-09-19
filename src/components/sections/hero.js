@@ -63,13 +63,10 @@ const Hero = () => {
   const three = <h3 className="big-heading">I'm a Software Engineer.</h3>;
   const four = (
     <p>
-      I'm a California-based computer engineering student with experience in web development,
-      embedded systems, product management, and entrepreneurship. Most recently, I was a Software
-      Engineer Intern at NASA working on time-triggered ethernet for the{' '}
-      <a href="https://www.nasa.gov/press-release/nasa-northrop-grumman-finalize-moon-outpost-living-quarters-contract">
-        Gateway HALO module.
-      </a>
-      .
+      I'm a computer science student at UCLA with experience in computer networking/security,
+      embedded systems, web development, product management, and entrepreneurship. Currently, I'm a
+      Data Science Intern at NASA working on{' '}
+      <a href="https://drf.nasa.gov/">Data and Reasoning Fabric</a>.
     </p>
   );
   const five = (

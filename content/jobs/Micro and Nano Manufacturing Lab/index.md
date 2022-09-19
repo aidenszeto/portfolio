@@ -1,7 +1,7 @@
 ---
 date: '2020-10-01'
 title: 'Undergraduate Researcher'
-company: 'UCLA Engineering'
+company: 'UCLA'
 location: 'Los Angeles, CA'
 range: 'October - January 2021'
 url: 'https://www.cjkimlab.ucla.edu/'
