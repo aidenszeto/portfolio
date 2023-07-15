@@ -65,8 +65,8 @@ const Hero = () => {
     <p>
       I'm a computer science student at UCLA with experience in computer networking/security,
       embedded systems, web development, product management, and entrepreneurship. Currently, I'm a
-      Data Science Intern at NASA working on{' '}
-      <a href="https://drf.nasa.gov/">Data and Reasoning Fabric</a>.
+      Software Engineer Intern at MongoDB working on{' '}
+      <a href="https://www.mongodb.com/docs/manual/replication/">database replication</a>.
     </p>
   );
   const five = (

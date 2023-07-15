@@ -1,7 +1,7 @@
 ---
 date: '2021-08-23'
 title: 'Software Engineer Intern'
-company: 'NASA'
+company: 'NASA JSC'
 location: 'Houston, TX'
 range: 'August 2021 - December 2021'
 url: 'https://www.nasa.gov/'
